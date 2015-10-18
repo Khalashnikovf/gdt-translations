@@ -6481,7 +6481,7 @@ msgid "Choose Folder"
 msgstr "Zvolit složku"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Zvolit is obrázek"
 
 msgid "Update"
 msgstr "Aktualizovat"
@@ -6529,13 +6529,13 @@ msgid "Hardware"
 msgstr "technické vybavení"
 
 msgid "Player"
-msgstr ""
+msgstr "Hráč"
 
 msgid "you"
-msgstr ""
+msgstr "vy"
 
 msgid "Special thanks to {0} for purchasing this game and supporting us!"
-msgstr ""
+msgstr "Zvláštní poděkování hráči {0} za to, že si hru koupil a podpořil nás!"
 
 msgid "G3 Training"
-msgstr ""
+msgstr "G3 výuka"
